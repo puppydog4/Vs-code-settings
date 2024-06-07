@@ -1,0 +1,26 @@
+disabled:
+  - id: AncientLord.nightowl-theme
+    uuid: df017d5c-070d-4f71-a011-9da59cb87ef8
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: vintharas.learn-vim
+    uuid: 159d930e-fdd0-42de-bbf8-5f62686e83a7
+enabled:
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: file-icons.file-icons
+    uuid: 43335a8d-5929-408b-874a-65f08362642c
+  - id: jdinhlife.gruvbox
+    uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: TomRijndorp.find-it-faster
+    uuid: d5eafbee-176a-421a-b74d-fbc51bd86a21
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
