@@ -20,5 +20,10 @@
         "continue.continue",
         "github.copilot",
         "github.copilot-chat"
-    ]
+    ],
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "git.openRepositoryInParentFolders": "always",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "bracketPairColorizer.depreciation-notice": false
 }

@@ -1,26 +1,32 @@
-disabled:
-  - id: AncientLord.nightowl-theme
-    uuid: df017d5c-070d-4f71-a011-9da59cb87ef8
-  - id: ms-vscode-remote.remote-wsl
-    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
-  - id: vintharas.learn-vim
-    uuid: 159d930e-fdd0-42de-bbf8-5f62686e83a7
+disabled: []
 enabled:
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: CoenraadS.bracket-pair-colorizer
+    uuid: f583eafd-aa0d-4ccb-8f44-d1e610389660
+  - id: csstools.postcss
+    uuid: 80def04d-6d01-495b-9d59-4ad19408872f
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: file-icons.file-icons
     uuid: 43335a8d-5929-408b-874a-65f08362642c
+  - id: IBM.output-colorizer
+    uuid: 113b22c8-8125-42ec-8c6b-80c3f5d5fa5f
   - id: jdinhlife.gruvbox
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: mvllow.rose-pine
+    uuid: 6ef63bba-e6b8-4209-b562-9a927f36ae8f
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
-  - id: TomRijndorp.find-it-faster
-    uuid: d5eafbee-176a-421a-b74d-fbc51bd86a21
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
