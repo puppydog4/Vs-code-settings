@@ -1,7 +1,7 @@
 {
     "explorer.confirmDragAndDrop": false,
     "tabnine.experimentalAutoImports": true,
-    "workbench.iconTheme": "file-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -21,9 +21,20 @@
         "github.copilot",
         "github.copilot-chat"
     ],
-    "workbench.colorTheme": "Gruvbox Dark Hard",
     "git.openRepositoryInParentFolders": "always",
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "bracketPairColorizer.depreciation-notice": false
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.fontVariations": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }

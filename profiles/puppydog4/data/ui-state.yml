@@ -1,19 +1,16 @@
-mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
+mongodb.mongodb-vscode: '{"GLOBAL_ANONYMOUS_ID":"a9f138ea-f363-4111-ba8c-eddc85c2fbe6","GLOBAL_HAS_BEEN_SHOWN_INITIAL_VIEW":true,"GLOBAL_SAVED_CONNECTIONS":{"69493b0c-d919-46b8-80b7-94bde65e364b":{"id":"69493b0c-d919-46b8-80b7-94bde65e364b","name":"nc-final-project.lbuys.mongodb.net","storageLocation":"GLOBAL","secretStorageLocation":"vscode.SecretStorage","connectionOptions":{"connectionString":"mongodb+srv://garyevans1501@nc-final-project.lbuys.mongodb.net/?retryWrites=true&w=majority&appName=mongodb-vscode+1.6.0","oidc":{}}},"e3bfac07-1ca5-4485-9124-55f3708a677d":{"id":"e3bfac07-1ca5-4485-9124-55f3708a677d","name":"test.zw1v6.mongodb.net","storageLocation":"GLOBAL","secretStorageLocation":"vscode.SecretStorage","connectionOptions":{"connectionString":"mongodb+srv://claudiolupo123@test.zw1v6.mongodb.net/?retryWrites=true&w=majority&appName=mongodb-vscode+1.6.0","oidc":{}}}}}'
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+rangav.vscode-thunder-client: '{"tc.version-key":"2.24.12"}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
 workbench.accounts.experimental.showEntitlements: "false"
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cs50-menu","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.ddb50","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":14},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.thunder-client","pinned":true,"order":9},{"id":"workbench.view.extension.mongoDB","pinned":true,"order":8},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cs50-menu","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.ddb50","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":14},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
-  npm:showScriptExplorer\"},{\"when\":\"git.commit.selected &&
-  git.commit.view.show &&
-  !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
-  ompared && git.commit.compare.view.show &&
-  !config.gitHistory.hideCompareCommitViewExplorer\"}]},{\"id\":\"workbench.vie\
-  w.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"name\":\"Search\",\"\
-  isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.scm\",\"themeIcon\"\
-  :{\"id\":\"source-control-view-icon\"},\"name\":\"Source
+  npm:showScriptExplorer\"},{\"when\":\"sqlite.explorer.show\"}]},{\"id\":\"wor\
+  kbench.view.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"name\":\"S\
+  earch\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.scm\",\"t\
+  hemeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount !=
   '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
@@ -58,40 +55,50 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"}]},{\"id\":\"workbench.view.extension.github-pull-requests\",\"isBuiltin\"\
-  :false},{\"id\":\"workbench.view.extension.github-pull-request\",\"isBuiltin\
-  \":false},{\"id\":\"workbench.view.extension.cs50-menu\",\"isBuiltin\":false}\
-  ,{\"id\":\"workbench.view.extension.ddb50\",\"isBuiltin\":false},{\"id\":\"wo\
-  rkbench.view.extension.hexExplorer\",\"isBuiltin\":false},{\"id\":\"workbench\
-  .view.extension.dockerView\",\"isBuiltin\":false},{\"id\":\"workbench.view.ex\
-  tension.liveshare\",\"isBuiltin\":false},{\"id\":\"workbench.panel.chatSidebar\
-  \",\"themeIcon\":{\"id\":\"comment-discussion\"},\"name\":\"Chat\",\"isBuiltin\
-  \":true,\"views\":[]},{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\"de\
-  faultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]},{\
-  \"id\":\"workbench.view.sync\",\"name\":\"Settings
+  \"}]},{\"id\":\"workbench.view.extension.thunder-client\",\"iconUrl\":{\"$mid\
+  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/rangav.vscode-thunder-client-2.24.12-\
+  universal/images/thunder-client.svg\",\"scheme\":\"file\"},\"name\":\"Thunder
+  Client\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extensi\
+  on.mongoDB\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/mongo\
+  db.mongodb-vscode-1.6.0-universal/images/sidebar-leaf.svg\",\"scheme\":\"file\
+  \"},\"name\":\"MongoDB\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.md\
+  b.showMongoDBConnectionExplorer\"},{\"when\":\"config.mdb.showMongoDBPlaygrou\
+  nds\"},{\"when\":\"config.mdb.showMongoDBHelpExplorer\"}]},{\"id\":\"workbenc\
+  h.view.extension.github-pull-requests\",\"isBuiltin\":false},{\"id\":\"workbe\
+  nch.view.extension.github-pull-request\",\"isBuiltin\":false},{\"id\":\"workb\
+  ench.view.extension.cs50-menu\",\"isBuiltin\":false},{\"id\":\"workbench.view\
+  .extension.ddb50\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.he\
+  xExplorer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.dockerView\
+  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.liveshare\",\"isBu\
+  iltin\":false},{\"id\":\"workbench.panel.chatSidebar\",\"themeIcon\":{\"id\":\
+  \"comment-discussion\"},\"name\":\"Chat\",\"isBuiltin\":true,\"views\":[]},{\
+  \"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\"defaultProfile-icon\"},\"\
+  name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view\
+  .sync\",\"name\":\"Settings
   Sync\",\"isBuiltin\":false},{\"id\":\"workbench.view.editSessions\",\"name\":\
   \"Cloud Changes\",\"isBuiltin\":false}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "256"
 workbench.chat.experimental.showWelcomeView: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["properties",true],["yaml",true],["go",true],["xml",true],["ignore",true],["css",true],["html",true],["postcss",true],["markdown",true],["json",true],["javascript",true],["plaintext",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"liveshare.session.explorer","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"learn-vim","isHidden":false},{"id":"continue.continueGUIView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["jsonc",true],["markdown",true],["properties",true],["javascript",true],["xml",true],["postcss",true],["json",true],["typescript",true],["typescriptreact",true],["plaintext",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"liveshare.session.explorer","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"learn-vim","isHidden":false},{"id":"continue.continueGUIView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"sqlite.explorer","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
 workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
-workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedHeight: "882"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.views.service.panel.a00bf55d-dece-4f16-a875-65cedfbc044e","pinned":true},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
-  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.a00bf55d-dece-4f16-a875-65cedfbc044e","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"workbench.panel.comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "390"
+workbench.panel.size: "531"
+workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false}]'
-workbench.sideBar.size: "270"
+workbench.sideBar.size: "368"
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"CppSshTargetsView","isHidden":false}]'
 workbench.view.extension.continue.state.hidden: '[{"id":"continue.continueGUIView","isHidden":false}]'
@@ -102,13 +109,16 @@ workbench.view.extension.github-pull-request.state.hidden: '[{"id":"github:creat
 workbench.view.extension.github-pull-requests.state.hidden: '[{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false}]'
 workbench.view.extension.learn-vim-container.state.hidden: '[{"id":"learn-vim","isHidden":false}]'
 workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"liveshare.devtools","isHidden":false}]'
+workbench.view.extension.mongoDB.state.hidden: '[{"id":"mongoDBConnectionExplorer","isHidden":false},{"id":"mongoDBPlaygroundsExplorer","isHidden":false},{"id":"mongoDBHelpExplorer","isHidden":false}]'
 workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false}]'
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
+workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.remote.installed","isHidden":false},{"id":"workbench.views.extensions.web.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true}]'
 workbench.view.remote.state.hidden: '[{"id":"targetsWsl","isHidden":false},{"id":"~remote.helpPanel","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
-workbench.views.extensions.installed.size: "16"
+workbench.views.extensions.installed.size: "17"
+workbench.views.service.panel.a00bf55d-dece-4f16-a875-65cedfbc044e.state.hidden: '[{"id":"~remote.forwardedPorts","isHidden":false}]'
 workbench.welcomePage.hiddenCategories: '["SetupWeb"]'
 workbench.welcomePage.walkthroughMetadata: '[["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1707225848705,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-vscode.cpptools#cppWelcome",{"firstSeen":1707225871867,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1707225887991,"stepIDs":["python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonWelcome2",{"firstSeen":1707225887991,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment2","python.runAndDebug","python.learnMoreWithDS2"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1707225887991,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["GitHub.copilot#copilotWelcome",{"firstSeen":1715968037288,"stepIDs":["copilot.signin","copilot.firstsuggest","copilot.chatWin","copilot.chatNonWin","copilot.realfiles.openrecent","copilot.realfiles.quickopen","copilot.iterate","copilot.creativity"],"manaullyOpened":false}],["Continue.continue#continue",{"firstSeen":1717572595686,"stepIDs":["edit","explain","generate"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1717572595686,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}]]'
-zokugun.cron-tasks: '{"version":"0.1.2"}'
+zokugun.cron-tasks: '{"version":"0.2.0"}'
